@@ -16,6 +16,8 @@
 // @include      /^http.*\/cn\/\?v=jav.*$/
 // @include      /^https?:\/\/(\w*\.)?jmvbt\.com\/content_(uncensored|censored)\/.*\.htm$/
 // @match        *://*.javdb.com/*
+// @match        https://javdb580.com/*
+// @match        https://.javdb580.com/
 // @match        *://*.jmvbt.com/content_uncensored/*.htm
 // @match        *://*.jmvbt.com/content_censored/*.htm
 // @require      https://update.greasyfork.org/scripts/522123/1511104/tampermonkey%20parallel.js
@@ -23,7 +25,7 @@
 // @require      https://cdn.jsdelivr.net/npm/preact@10.25.4/dist/preact.min.js
 // @connect      dmm.co.jp
 // @connect      jable.tv
-// @connect      missav.ws
+// @connect      missav.live
 // @connect      123av.com
 // @connect      supjav.com
 // @connect      www.bestjavporn.com
