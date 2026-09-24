@@ -1518,11 +1518,11 @@
       },
       {
         name: SITE_NAMES.MISSAV,
-        hostname: "missav.ws",
-        url: "https://missav.ws/{{code}}/",
+        hostname: "missav.live",
+        url: "https://missav.live/{{code}}/",
         fetchType: "get",
         domQuery: {
-          subQuery: '.space-y-2 a.text-nord13[href="https://missav.ws/chinese-subtitle"]',
+          subQuery: '.space-y-2 a.text-nord13[href="https://missav.live/chinese-subtitle"]',
           leakQuery: ".order-first div.rounded-md a[href]:last-child"
         }
       },
